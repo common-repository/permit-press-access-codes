@@ -1,0 +1,12 @@
+<?php
+/*
+Plugin Name: Press Permit Access Codes
+Description: Allows users to be added to a permission group based on access code entered
+Plugin URI: http://slickorange.co.za
+Author: Hendre Page
+Author URI: http://#
+Version: 1.0
+License: GPL2
+*/
+
+?>
